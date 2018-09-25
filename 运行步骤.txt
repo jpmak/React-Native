@@ -1,0 +1,13 @@
+第一步：双击打开：Genymotion
+第二步：创建一个名为AwesomeProject的项目：react-native init AwesomeProject
+第三步：切入AwesomeProject项目内：cd AwesomeProject
+
+第四步：运行AwesomeProject程序：react-native run-android
+(Genymotion上的dev host与本机上ip地址一致)
+
+红屏报错
+1、点击右侧的 Menu 菜单（Ctrl+M）
+2、设置 Dev Settings的host与本机上ip地址一致) 如（10.0.0.121：8081）
+3、退出（Esc或重点Menu 菜单）
+4、再次按reload
+
